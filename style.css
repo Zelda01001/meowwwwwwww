@@ -1,0 +1,51 @@
+.flag{
+    width: 400px;
+    transition: all 0.5s ease-out;
+}
+.com{
+    width: 200px;
+    transition: all 0.5s ease-out;
+}
+
+.sym{
+    width: 200px;
+}
+.vod{
+    display: flex;
+}
+
+.pic{
+    display: flex;
+    flex-wrap: wrap;
+}
+.vod p{
+    font-size: 25px;
+}
+
+p{
+    font-size: 25px;
+}
+
+h1{
+    text-align: center;
+    background-color: rgb(189, 0, 0);
+    color: yellow;
+}
+body{
+    background-color: rgba(255, 0, 0, 0.751);
+
+}
+
+iframe{
+    margin: 25px;
+}
+.com:hover{
+    border: 5px double yellow;
+    width: 250px;
+    transition: all 0.5s ease-out;
+}
+
+.flag:hover{
+    border: 5px solid yellow;
+    transition: all 0.5s ease-out;
+}
